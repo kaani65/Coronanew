@@ -1,0 +1,9 @@
+Searchliste scrollable machen
+Backbutton einfügen
+Popupbutton bei Druck auf Infizierten - If schleife nur für infizierte
+Registrierung - Halb done
+Passwort und Name in Einloggfunktion live schalten
+id generator -Finished
+
+
+
